@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Simple Portfolio Plugin
+Plugin Name: Sherky Simple Portfolio
 Plugin URI: http://www.sherkspear.com/portfolio-item/simple-portfolio-plugin/
-Description: Creates a portfolio page on the website using the slug 'portfolio'. Let's you create a profile details on your portfolio page. Adds projects with screenshots, links and description of the project that will be shown on your portfolio page. 
-Version: 1.0
+Description: Creates simple yet elegant responsive portfolio using shortcode into your page. Work samples are displayed using a fancy jquery plugin jPortilio to create nice responsive, filterable grid of items, great for online portfolio.
+Version: 1.1
 Author: Sherwin Calims
 Author URI: http://www.sherkspear.com
 
@@ -40,6 +40,8 @@ require_once 'database/Uninstall.php';
 
 require_once 'classes/Menu.php';
 require_once 'classes/HelperFunctions.php';
+require_once 'classes/SherkyPortfolioShortcode.php';
+require_once 'classes/SherkyPortfolioCssJsScripts.php';
 
 // Includes
 require_once 'includes/Constants.php';
@@ -60,6 +62,10 @@ class SherkPortfolio{
    
    function getBaseDir(){
 	   return dirname(__FILE__);
+	}
+	
+	public static function get_plugin_url() {
+		return plugins_url( '' , __FILE__ ).'/';
 	}
 
    

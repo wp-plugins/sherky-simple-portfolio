@@ -13,6 +13,7 @@ class InstallPortfolio{
 		  $sherkportfolio_tables[] = "CREATE TABLE " . SHERKPORTFOLIOPERSONAL . " (
 				id INTEGER NOT NULL AUTO_INCREMENT,
 				name VARCHAR(255) NOT NULL,
+				photo VARCHAR(255) NOT NULL,
 				skype VARCHAR(255) NOT NULL,
 				ym VARCHAR(255) NOT NULL,
 				gmail VARCHAR(255) NOT NULL,

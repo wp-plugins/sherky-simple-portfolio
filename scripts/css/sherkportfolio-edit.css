@@ -1,0 +1,77 @@
+/**SherkInvoice Cascade Style Sheets **/
+
+table, th, td
+{
+border: 1px solid #ccc;
+padding:3px 5px;
+vertical-align:text-top;
+}
+td{
+vertical-align:text-top;
+}
+
+td a{
+  padding:3px 5px;
+}
+
+#form-addclient,#form-displayclients{
+  padding:20px 5px;
+}
+
+#projects table{
+  border:0px;
+  background:#444444;
+}
+
+#projects th,td{
+  background:#ffffff;
+  border:1px solid #ccc;
+  padding:3px 5px;
+  vertical-align:text-top;
+}
+
+
+#projects th{
+  text-align:center;
+  background-color:#F5A804;
+  padding:10px 0px;
+  text-transform:uppercase;
+  font-weight:bold;
+  font-size:14px;
+  color:#FFFFFF;
+}
+
+.personaldata .labels{
+  font-weight:bold;
+  padding:5px;
+}
+
+.personaldata {
+  padding:10px 0px;
+}
+
+h2.titlelabel{
+  display:block;
+  font-weight:bold;
+  font-size:15px;
+  padding:15px 0px 0px 0px;
+  margin-left:5px;
+}
+
+.bold{
+  font-weight:bold;
+  padding:10px 0px;
+}
+
+.projname, .projdesc{
+   padding:5px 0px;
+}
+
+#div_sp_links{
+   text-align:right;
+   float:right;
+}
+
+.datadesc{
+   max-width:350px;
+}

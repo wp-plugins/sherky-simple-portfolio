@@ -1,0 +1,72 @@
+#sherky_portfolio{
+	max-width:900px;
+}
+
+
+#sherky_portfolio .jprt-content.new_section_shown{
+   padding:20px;
+   background:#222;
+   border:1px solid #111;
+   color:#FFF;
+}
+
+#sherky_portfolio h2.custom-content-title{
+   color:#FFF;
+}
+
+#sherky_portfolio .jprt-caption img{
+    padding:10px;
+	width:280px;
+	max-height:160px;
+}
+
+#sherky_portfolio  .jprt-caption{
+  background:#222;
+  color:#EEE;
+}
+
+#sherky_portfolio  .jprt-hover{
+	background:#333;
+	color:#EEE;
+}
+
+#sherky_portfolio  .jprt-hover .jprt-item-title{
+   color:#EEE;
+}
+
+
+
+#portfolioproject{
+   width:100%;
+   font-size:16px;
+   line-height:1.5;
+}
+
+#portfolioproject #sherky_portfolio  .jprt-caption p.jprt-item-tags{
+   font-size:11px;
+}
+
+#portfolioproject  #skills{
+   clear:both;
+   float:none;
+}
+
+#portfolioproject .personaldata{
+   padding:10px;
+   font-style:italic;
+}
+
+#portfolioproject .labels{
+	font-weight:bold;
+	font-style:normal;
+}
+
+#portfolioproject  h2.titlelabel{
+	margin:30px 0px 15px;
+	font-size:35px;
+}
+
+#name{
+  font-size:40px;
+  font-weight:bold;
+}
