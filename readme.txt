@@ -17,7 +17,7 @@ This a simple plugin that showcases the projects you worked on and currently wor
 Adding projects is simple as ABC. It's plain and simple.
 
 
-You can visit for more info : http://www.sherkspear.com/portfolio-item/simple-portfolio-plugin/
+You can visit for more info : <http://www.sherkspear.com/portfolio-item/simple-portfolio-plugin/>
 
 == Installation ==
 
@@ -31,12 +31,17 @@ This section describes how to install the plugin and get it working.
 6. Add projects for your portfolio through the Add New Project submenu of Portfolio menu.
 7. Provide the details of the project and click submit.
 8. List of projects will be available for edit and delete under the Project form.
-9. Add shortcode to the Page you created where you wish your portfolio will be displayed using [sherkyportfolio]
+9. Add shortcode to the Page you created where you wish your portfolio will be displayed using   
+**[sherkyportfolio]**    
+
+**More detailed instruction is at**    
+*Dashboard -> Portfolio -> How To Use   
+`/wp-admin/admin.php?page=sherkportfolio_menu_page`
 
 == Frequently Asked Questions ==
 
 = Can I request a feature to be added on the plugin? =
-Certainly and would love to hear about it. You can contact me through my official website http://www.sherkspear.com/contact and contact me through the contact form of my website.
+Certainly and would love to hear about it. You can contact me through my official website <http://www.sherkspear.com/contact> and contact me through the contact form of my website.
 
 
 == Screenshots ==
@@ -50,7 +55,7 @@ Certainly and would love to hear about it. You can contact me through my officia
 
 
 == Upgrade Notice ==
-[sherkyportfolio]
+
 
 == Changelog ==
 
