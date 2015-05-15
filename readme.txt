@@ -21,7 +21,7 @@ Adding projects is simple as ABC. It's plain and simple.
 
 You can email me directly for any plugin request or personal modification such as styles and templates at <contact@sherkspear.com> or contact me at <http://sherkspear.com/contact>
 
-Plugin URL : <http://www.sherkspear.com/portfolio-item/simple-portfolio-plugin/>    
+Plugin URL : <http://www.sherkspear.com/portfolio-item/simple-portfolio-plugin/>     
 Demo Page: <http://demo.sherkspear.com/portfolio/>
 
 == Installation ==
@@ -63,6 +63,7 @@ Certainly and would love to hear about it. You can contact me through my officia
 
 
 == Changelog ==
+
 = 1.2 =
 * Fixed bugs Dashboard Post missing
 * Update styles for jportilio title
