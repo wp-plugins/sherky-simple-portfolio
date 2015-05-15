@@ -2,8 +2,8 @@
 /*
 Plugin Name: Sherky Simple Portfolio
 Plugin URI: http://www.sherkspear.com/portfolio-item/simple-portfolio-plugin/
-Description: Creates simple yet elegant responsive portfolio using shortcode into your page. Work samples are displayed using a fancy jquery plugin jPortilio to create nice responsive, filterable grid of items, great for online portfolio.
-Version: 1.1
+Description: Creates simple yet elegant responsive portfolio using shortcode into your page. Work samples are displayed using a fancy jquery plugin jPortilio.
+Version: 1.2
 Author: Sherwin Calims
 Author URI: http://www.sherkspear.com
 

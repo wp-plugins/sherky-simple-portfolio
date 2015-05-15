@@ -4,7 +4,7 @@ Donate link: http://www.sherkspear.com/donate/
 Tags: portfolio, portfolios, add portfolios, create portfolios, skills, portfolio page, simple portfolio, wordpress plugin
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,12 +12,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 Creates simple yet elegant responsive portfolio using shortcode into your page. Work samples are displayed using a fancy jquery plugin jportilio.
+
 Work samples are displayed beautifully and the template itself.
+
 This a simple plugin that showcases the projects you worked on and currently working on your personal website. Personal details are added on the portfolio page as your contact details.
+
 Adding projects is simple as ABC. It's plain and simple.
 
+You can email me directly for any plugin request or personal modification such as styles and templates at <contact@sherkspear.com> or contact me at <http://sherkspear.com/contact>
 
-You can visit for more info : <http://www.sherkspear.com/portfolio-item/simple-portfolio-plugin/>
+Plugin URL : <http://www.sherkspear.com/portfolio-item/simple-portfolio-plugin/>    
+Demo Page: <http://demo.sherkspear.com/portfolio/>
 
 == Installation ==
 
@@ -58,6 +63,9 @@ Certainly and would love to hear about it. You can contact me through my officia
 
 
 == Changelog ==
+= 1.2 =
+* Fixed bugs Dashboard Post missing
+* Update styles for jportilio title
 
 = 1.1 =
 * Implemented shortcode on displaying portfolio data.
@@ -66,3 +74,7 @@ Certainly and would love to hear about it. You can contact me through my officia
 
 = 1.0 =
 * An initial upload of the plugin.
+
+==More detailed instruction is at==    
+*Dashboard -> Portfolio -> How To Use   
+`/wp-admin/admin.php?page=sherkportfolio_menu_page`
